@@ -1,6 +1,6 @@
 # Viz starter
 
-Build on [webpack-starter](https://github.com/wbkd/webpack-starter).
+Built on [webpack-starter](https://github.com/wbkd/webpack-starter).
 
 ### Installation
 
